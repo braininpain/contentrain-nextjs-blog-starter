@@ -41,7 +41,7 @@
     "tags": [
       "tags"
     ],
-    "coverImage": "public/assets/1648739243381_cover.jpg",
+    "coverImage": "public/assets/1669877005608_Contentrain styles.png",
     "author": {
       "createdAt": 1648739290435,
       "ID": "dbdaba40-b350-457e-a1e5-54a1c0c3de68",
@@ -52,7 +52,8 @@
       "createdAt": 1648739317226,
       "ID": "672bd3a8-91c5-4a58-8bf3-cb9b8ec41622",
       "url": "public/assets/1648739315949_cover.jpg"
-    }
+    },
+    "updatedAt": 1669877008230
   },
   {
     "createdAt": 1648739428683,
